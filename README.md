@@ -10,10 +10,15 @@ These proposal is to upgrade xCIPHS (xDai) token to a cryptoccurency coin, prebu
 As per whitepaper we plan to build other coin for DAO. We have tried a few options which use tremendous cost and time for R&D. Comed to the the final conclusion with decision to  build a standalone blockchain for Ciphscoin. Prior to the upgrade, we propose to upgrade xCIPHS (xDai) to Ciphscoin (CIPHS). Ciphscoin Protocol Network (CPN) will be backed by 100% Proof-of-Work consensus. These benefits everyone with fair start. Feel free to start mining CIPHS with CPU and support the network security.
 
 Coin Name: Ciphscoin
+
 Ticker: CIPHS
+
 Decimal: 8
+
 Distribution: 100% PoW (CPU/GPU Mining)
+
 Max Supply: 27 million + tail emission
+
 Premine: 7 Million from xCIPHS
 
 # 2.1. Hardfork for xCIPHS holder //this process will be carry on when CIP3 has been launch, stay tune.
