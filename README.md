@@ -28,3 +28,12 @@ xCiphs holder may redeem CIPHS by starting a chat with our friendly @CiphsBot (h
 
 # 2.2. Information for CIPHS[erc20] holder
 *Ciphs (ERC20) holder can check xCiphs balance relatively to erc20 wallet using xDai wallet provided here (https://xciphs.burnerfactory.com). Restore your private key from erc20 wallet which store legacy erc20 CIPHS, the key will be process on Users browser. To be safe, you may disconnected from internet while decrypting your private key to xCiphs wallet.
+
+# 3. Ciphscoin allocation for CIP2 to CIP3
+txid: http://152.89.247.97:50604/tx/ceb7f63255e4f1699522ca8ea7019ec3c4d5ce1fce25925d09180ee56bb87921 
+txid: http://152.89.247.97:50604/tx/3de711f42118df828e87fcfd006244311c43a463a1757998d9795fc223928a51 - subsidized tx fees
+
+xCIPHS block as ref for hardork: 
+https://blockscout.com/xdai/mainnet/address/0x30b64Fa9112A6e884A4E246DD0476c0af469986b/transactions
+
+
